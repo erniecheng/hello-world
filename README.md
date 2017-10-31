@@ -1,2 +1,5 @@
 # hello-world
-Just another repository (tbd)
+
+Hi Humans:
+
+I love using GitHub!
